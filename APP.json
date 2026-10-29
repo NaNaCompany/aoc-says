@@ -1,0 +1,22 @@
+{
+  "slug": "aoc-says",
+  "name": "AOC Says",
+  "wordmark": "AOC",
+  "subject": "Alexandria Ocasio-Cortez",
+  "handle": "AOC",
+  "initials": "AO",
+  "color": "#88615b",
+  "profile": "https://x.com/AOC",
+  "origin": "https://nanalab.kr/aoc-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}
